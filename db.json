@@ -1,0 +1,55 @@
+{
+  "users": [
+    {},
+    {
+      "id": "kishor",
+      "name": "Kishor Chavan",
+      "password": "12345",
+      "email": "chavankishor8143@gmail.com",
+      "phone": "9158623326",
+      "country": "india",
+      "address": "Mangalwar Peth (Solapur)",
+      "gender": "female"
+    },
+    {
+      "id": "asdad",
+      "name": "Kishor Chavan",
+      "password": "12313",
+      "email": "chavankishor8143@gmail.com",
+      "phone": "09158623326",
+      "country": "india",
+      "address": "Mangalwar Peth (Solapur)",
+      "gender": "male"
+    },
+    {
+      "id": "ddsas",
+      "name": "Kishor ",
+      "password": "12313",
+      "email": "nkishor8143@gmail.com",
+      "phone": "158623326",
+      "country": "usa",
+      "address": "Mangalwar Peth (Solapur)",
+      "gender": "male"
+    },
+    {
+      "id": "sfdsf",
+      "name": " Chavan",
+      "password": "24324",
+      "email": "chavan143@gmail.com",
+      "phone": "09158623326",
+      "country": "india",
+      "address": "Mangalwar Peth (Solapur)",
+      "gender": "female"
+    },
+    {
+      "id": "aIeeNf2",
+      "name": "Kishor Chavan",
+      "password": "",
+      "email": "chavankishor8143@gmail.com",
+      "phone": "09158623326",
+      "country": "india",
+      "address": "Mangalwar Peth (Solapur)",
+      "gender": "female"
+    }
+  ]
+}
